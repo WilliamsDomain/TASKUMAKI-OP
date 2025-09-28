@@ -1,5 +1,3 @@
-![Alt text](./Assets/c01fe4b5f18e38b45aa05bd05fe1c90f.jpg)
-
 # 𝕋𝔸𝕊𝐊𝐔𝐌𝐀𝐊𝐈 
 A comprehensive WhatsApp Group Management Bot designed to reduce admin stress and automate group moderation tasks.
 
@@ -385,3 +383,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 _Reduce admin stress, automate moderation, and create better group experiences!_
 
 >## Created by Tomisin
+
