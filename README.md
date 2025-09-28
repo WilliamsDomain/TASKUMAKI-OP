@@ -382,5 +382,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 _Reduce admin stress, automate moderation, and create better group experiences!_
 
->## Created by Tomisin
+>## Created by Williams
+
 
